@@ -1,4 +1,4 @@
-Dockerfile for Dubian centos7 with systemd
+Dockerfile for centos7 with systemd
 
 
 ## Usage
